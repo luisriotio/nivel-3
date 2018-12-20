@@ -1,2 +1,3 @@
 20/12/2018 Hola mundo
 Pruebas con el stage
+Pruebas con checkout
